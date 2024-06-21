@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NielsToftlund
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 👀 C# and .NET is my favorites
 
 <!---
 NielsToftlund/NielsToftlund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
